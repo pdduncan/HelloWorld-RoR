@@ -29,3 +29,12 @@
 /log/*.log
 
 /tmp
+
+#Extras
+database.yml
+doc/
+*.swp
+*~
+.project
+.idea
+.secret
